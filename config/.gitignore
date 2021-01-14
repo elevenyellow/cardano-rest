@@ -1,4 +1,3 @@
 postgres_db
 postgres_password
 postgres_user
-nginx/*.config
